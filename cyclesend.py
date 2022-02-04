@@ -18,7 +18,16 @@ def send(txt="woaini"):
 
 if __name__ == "__main__":
     gui.hotkey("ctrl","alt","z")    # 模拟组合键，打开qq
+    
+# # 定时发送信息
+#     while(True):
+#         time.sleep(random.randint(10, 30))    # 间隔10到30秒
+#         send("woaini")    # 发送消息
 
-    while(True):
-        time.sleep(random.randint(10, 30))    # 间隔10到30秒
-        send("woaini")    # 发送消息
+# 发送文件中的信息
+    with open("fangyuji1.txt", "r",  encoding='UTF-8') as f:
+        for line in f.readlines():    # 读取每一行写进一个列表中
+            time.sleep(random.randint(60, 120))
+            print(line)
+            send(line)
+           
