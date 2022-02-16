@@ -1,0 +1,5 @@
+读取xml文件，修改其中相关内容
+
+参考链接：https://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p06_parse_modify_rewrite_xml.html
+
+参考链接：https://blog.csdn.net/wsp_1138886114/article/details/86576900
