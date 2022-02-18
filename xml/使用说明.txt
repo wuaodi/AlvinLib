@@ -3,3 +3,8 @@
 参考链接：https://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p06_parse_modify_rewrite_xml.html
 
 参考链接：https://blog.csdn.net/wsp_1138886114/article/details/86576900
+
+xml_change	修改xml文件中某些字段
+xml_remove	删除某些不要的标注类别
+xml_add		从其他xml文件中加入新的类别
+xml_none		删除没有任何标注的xml文件
