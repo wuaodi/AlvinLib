@@ -28,3 +28,6 @@ matlab代码，批量对一个文件夹中的图片进行处理
 
 ## xml
 xml文件读取与修改
+
+## xml2DOTA
+将roLabelImg标注的xml文件转为dota格式
