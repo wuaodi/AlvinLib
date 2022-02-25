@@ -1,0 +1,28 @@
+<annotation verified="no">
+  <folder>opt3951final</folder>
+  <filename>opt3951final_356</filename>
+  <path>D:\CutPics\final\3951\opt3951final\opt3951final_356.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>Track Field</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>879.2143</cx>
+      <cy>480.2143</cy>
+      <w>43.0</w>
+      <h>63.0</h>
+      <angle>3.111593</angle>
+    </robndbox>
+  </object>
+</annotation>

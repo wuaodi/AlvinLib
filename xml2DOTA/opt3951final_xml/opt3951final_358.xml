@@ -1,0 +1,42 @@
+<annotation verified="no">
+  <folder>opt3951final</folder>
+  <filename>opt3951final_358</filename>
+  <path>D:\CutPics\final\3951\opt3951final\opt3951final_358.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>Solar panel</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>736.0306</cx>
+      <cy>530.7965</cy>
+      <w>124.6673</w>
+      <h>108.1449</h>
+      <angle>0.03</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>Solar panel</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>706.5306</cx>
+      <cy>388.7965</cy>
+      <w>134.8031</w>
+      <h>145.8578</h>
+      <angle>0.01</angle>
+    </robndbox>
+  </object>
+</annotation>

@@ -1,0 +1,28 @@
+<annotation verified="no">
+  <folder>opt3951final</folder>
+  <filename>opt3951final_82</filename>
+  <path>D:\CutPics\final\3951\opt3951final\opt3951final_82.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>Highway Bridge</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>622.6769</cx>
+      <cy>819.293</cy>
+      <w>33.9849</w>
+      <h>17.9253</h>
+      <angle>2.521593</angle>
+    </robndbox>
+  </object>
+</annotation>

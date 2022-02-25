@@ -1,0 +1,3 @@
+imagesource:GF
+gsd:None
+642.0 817.0 614.0 836.0 604.0 822.0 631.0 802.0 highway-bridge 0

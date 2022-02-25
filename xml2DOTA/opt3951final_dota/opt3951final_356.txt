@@ -1,0 +1,3 @@
+imagesource:GF
+gsd:None
+902.0 511.0 859.0 512.0 857.0 449.0 900.0 448.0 track-field 0

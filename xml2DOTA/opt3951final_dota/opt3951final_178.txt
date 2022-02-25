@@ -1,0 +1,3 @@
+imagesource:GF
+gsd:None
+577.0 283.0 45.0 304.0 37.0 98.0 568.0 76.0 solar-panel 0
