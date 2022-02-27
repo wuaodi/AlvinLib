@@ -31,3 +31,7 @@ xml文件读取与修改
 
 ## xml2DOTA
 将roLabelImg标注的xml文件转为dota格式
+
+## DOTA_decvkit
+检查标注的DOTA格式图像是否有问题 DOTA.py
+对图像进行分割等工作
