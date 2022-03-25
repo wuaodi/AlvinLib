@@ -37,4 +37,4 @@ xml文件读取与修改
 对图像进行切割成小图、结果评估
 
 ## CAM精度评定
-根据cam算法输出的mask，生成bbox，再与使用labelimg标注的voc检测真值比较，评定mAP
+根据cam算法输出的mask，生成bbox，再与使用labelimg标注的voc格式检测真值比较，评定mAP
