@@ -2,8 +2,8 @@ import paramiko
 import subprocess
 
 ip_prefix = "10.2.29" 
-username = "ai-i-wuaodi"
-password = "123456"
+username = "修改成自己的用户名"
+password = "修改成自己的密码"
 
 for i in range(1,255):
     ip = ip_prefix + "." + str(i)
