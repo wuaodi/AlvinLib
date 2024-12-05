@@ -38,3 +38,6 @@ xml文件读取与修改
 
 ## CAM精度评定
 根据cam算法输出的mask，生成bbox，再与使用labelimg标注的voc格式检测真值比较，评定mAP
+
+## pixelDetails.py
+输出图像的通道数、位深度、缩放后的像素值、16位转8位显示
