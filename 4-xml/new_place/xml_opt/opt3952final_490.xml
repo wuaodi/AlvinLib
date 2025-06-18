@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation verified="no">
+  <folder>opt3952final</folder>
+  <filename>opt3952final_490</filename>
+  <path>D:\CutPics\final\3952\opt3952final\opt3952final_490.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>Waterway Bridge</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>155.6615</cx>
+      <cy>351.6673</cy>
+      <w>13.2271</w>
+      <h>9.4617</h>
+      <angle>3.041593</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>Waterway Bridge</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>902.7162</cx>
+      <cy>432.8115</cy>
+      <w>47.0539</w>
+      <h>10.6702</h>
+      <angle>0.2</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>Waterway Bridge</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>67.7143</cx>
+      <cy>602.2143</cy>
+      <w>10.0</w>
+      <h>13.0</h>
+      <angle>0.0</angle>
+    </robndbox>
+  </object>
+</annotation>
